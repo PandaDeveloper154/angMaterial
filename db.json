@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "productList": [
+    {
+      "productName": "juk",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 56,
+      "comment": "vhbcf",
+      "date": "2024-04-17T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "fyug",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 78,
+      "comment": "ole",
+      "date": "2024-04-16T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "hi",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 78,
+      "comment": "ole",
+      "date": "2024-04-16T00:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
